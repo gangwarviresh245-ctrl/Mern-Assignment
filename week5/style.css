@@ -1,0 +1,18 @@
+header{
+    background: linear-gradient(to right, #64a9e8, #32a4d4);
+    color: white;
+    text-align: center;
+    padding: 55px 20px;
+    border: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+h1{
+    font-size: 48px;
+    margin: 20px 0;
+}
+
+p{
+    font-size: 26px;
+    margin: 20px 0;
+}
