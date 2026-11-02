@@ -63,7 +63,7 @@ body {
     object-fit: cover;
 }
 
-/* Features */
+
 .features {
     display: flex;
     justify-content: center;
@@ -80,14 +80,14 @@ body {
     color: #071a40;
 }
 
-/* Footer */
+
 footer {
     text-align: center;
     padding: 20px;
     color: #555;
 }
 
-/* Mobile Responsive */
+
 @media (max-width: 600px) {
 
     .navbar {
